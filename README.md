@@ -13,6 +13,7 @@
 <li>Custom Fields and Merchant Names: Allow users to categorize transactions by custom fields and add merchant names.</li>
 <li>Daily Financial Overview: Show the user's average daily gross income minus the expenses for that same day.</li>
 <li>Account Overview: Allow users to see each account with the PLAID API, along with a list of accounts and a total of all accounts.</li>
+<li>Transaction Ledger: See a list of all transactions from all accounts. Transactions don't delete when accounts are removed. Automatically detect duplicate transactions when a new account is added</li>
 </ul>
 
 
